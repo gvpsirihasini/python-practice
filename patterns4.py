@@ -1,4 +1,4 @@
-N = 5
+N= 5
 for i in range(1,N+1):
     for k in range(N,i,-1):
         print(" ",end="")
